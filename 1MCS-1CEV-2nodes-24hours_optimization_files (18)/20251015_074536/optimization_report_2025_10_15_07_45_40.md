@@ -1,0 +1,169 @@
+# Optimization Report
+
+## Summary
+
+- Objective Value: 4.2699306242175705
+- Total Energy from Grid: 13.12144627496716 kWh
+- Total Missed Work: 0.0 kWh
+- Total Carbon Emissions Cost: 2.6953570712215122
+- Total Electricity Cost: 1.5745735529960592
+- Work Completion Percentage: 100.0 %
+- Solve Time: 6.253550052642822 seconds
+
+## MCS Locations
+
+- MCS 1:
+    - Time 1: Grid Node 1
+    - Time 2: Grid Node 1
+    - Time 3: Grid Node 1
+    - Time 4: Grid Node 1
+    - Time 5: Grid Node 1
+    - Time 6: Grid Node 1
+    - Time 7: Grid Node 1
+    - Time 8: Grid Node 1
+    - Time 9: Grid Node 1
+    - Time 10: Grid Node 1
+    - Time 11: Grid Node 1
+    - Time 12: Grid Node 1
+    - Time 13: Grid Node 1
+    - Time 14: Grid Node 1
+    - Time 15: Grid Node 1
+    - Time 16: Grid Node 1
+    - Time 17: Grid Node 1
+    - Time 18: Grid Node 1
+    - Time 19: Grid Node 1
+    - Time 20: Grid Node 1
+    - Time 21: Grid Node 1
+    - Time 22: Grid Node 1
+    - Time 23: Grid Node 1
+    - Time 24: Grid Node 1
+    - Time 25: Grid Node 1
+    - Time 26: Grid Node 1
+    - Time 27: Grid Node 1
+    - Time 28: Grid Node 1
+    - Time 29: Grid Node 1
+    - Time 30: Grid Node 1
+    - Time 31: Grid Node 1
+    - Time 32: Grid Node 1
+    - Time 33: Grid Node 1
+    - Time 34: Grid Node 1
+    - Time 35: Construction Site 2
+    - Time 36: Construction Site 2
+    - Time 37: Construction Site 2
+    - Time 38: Construction Site 2
+    - Time 39: Construction Site 2
+    - Time 40: Construction Site 2
+    - Time 41: Construction Site 2
+    - Time 42: Construction Site 2
+    - Time 43: Construction Site 2
+    - Time 44: Construction Site 2
+    - Time 45: Construction Site 2
+    - Time 46: Construction Site 2
+    - Time 47: Construction Site 2
+    - Time 48: Construction Site 2
+    - Time 49: Construction Site 2
+    - Time 50: Construction Site 2
+    - Time 51: Construction Site 2
+    - Time 52: Construction Site 2
+    - Time 53: Construction Site 2
+    - Time 54: Construction Site 2
+    - Time 55: Grid Node 1
+    - Time 56: Grid Node 1
+    - Time 57: Construction Site 2
+    - Time 58: Construction Site 2
+    - Time 59: Construction Site 2
+    - Time 60: Construction Site 2
+    - Time 61: Construction Site 2
+    - Time 62: Construction Site 2
+    - Time 63: Construction Site 2
+    - Time 64: Construction Site 2
+    - Time 65: Construction Site 2
+    - Time 66: Construction Site 2
+    - Time 67: Construction Site 2
+    - Time 68: Construction Site 2
+    - Time 69: Construction Site 2
+    - Time 70: Construction Site 2
+    - Time 71: Construction Site 2
+    - Time 72: Construction Site 2
+    - Time 73: Construction Site 2
+    - Time 74: Construction Site 2
+    - Time 75: Construction Site 2
+    - Time 76: Construction Site 2
+    - Time 77: Construction Site 2
+    - Time 78: Construction Site 2
+    - Time 79: Construction Site 2
+    - Time 80: Construction Site 2
+    - Time 81: Construction Site 2
+    - Time 82: Construction Site 2
+    - Time 83: Construction Site 2
+    - Time 84: Construction Site 2
+    - Time 85: Grid Node 1
+    - Time 86: Grid Node 1
+    - Time 87: Grid Node 1
+    - Time 88: Grid Node 1
+    - Time 89: Grid Node 1
+    - Time 90: Grid Node 1
+    - Time 91: Grid Node 1
+    - Time 92: Grid Node 1
+    - Time 93: Grid Node 1
+    - Time 94: Grid Node 1
+    - Time 95: Grid Node 1
+    - Time 96: Grid Node 1
+
+## MCS Routes
+
+- MCS 1:
+
+## CEV Charging
+
+- CEV 1:
+    - Time 35: MCS 1 at Construction Site 2
+    - Time 36: MCS 1 at Construction Site 2
+    - Time 37: MCS 1 at Construction Site 2
+    - Time 38: MCS 1 at Construction Site 2
+    - Time 39: MCS 1 at Construction Site 2
+    - Time 40: MCS 1 at Construction Site 2
+    - Time 41: MCS 1 at Construction Site 2
+    - Time 42: MCS 1 at Construction Site 2
+    - Time 43: MCS 1 at Construction Site 2
+    - Time 44: MCS 1 at Construction Site 2
+    - Time 45: MCS 1 at Construction Site 2
+    - Time 46: MCS 1 at Construction Site 2
+    - Time 47: MCS 1 at Construction Site 2
+    - Time 48: MCS 1 at Construction Site 2
+    - Time 49: MCS 1 at Construction Site 2
+    - Time 50: MCS 1 at Construction Site 2
+    - Time 51: MCS 1 at Construction Site 2
+    - Time 52: MCS 1 at Construction Site 2
+    - Time 53: MCS 1 at Construction Site 2
+    - Time 54: MCS 1 at Construction Site 2
+    - Time 57: MCS 1 at Construction Site 2
+    - Time 58: MCS 1 at Construction Site 2
+    - Time 59: MCS 1 at Construction Site 2
+    - Time 60: MCS 1 at Construction Site 2
+    - Time 61: MCS 1 at Construction Site 2
+    - Time 62: MCS 1 at Construction Site 2
+    - Time 63: MCS 1 at Construction Site 2
+    - Time 64: MCS 1 at Construction Site 2
+    - Time 65: MCS 1 at Construction Site 2
+    - Time 66: MCS 1 at Construction Site 2
+    - Time 67: MCS 1 at Construction Site 2
+    - Time 68: MCS 1 at Construction Site 2
+    - Time 69: MCS 1 at Construction Site 2
+    - Time 70: MCS 1 at Construction Site 2
+    - Time 71: MCS 1 at Construction Site 2
+    - Time 72: MCS 1 at Construction Site 2
+    - Time 73: MCS 1 at Construction Site 2
+    - Time 74: MCS 1 at Construction Site 2
+    - Time 75: MCS 1 at Construction Site 2
+    - Time 76: MCS 1 at Construction Site 2
+    - Time 77: MCS 1 at Construction Site 2
+    - Time 78: MCS 1 at Construction Site 2
+    - Time 79: MCS 1 at Construction Site 2
+    - Time 80: MCS 1 at Construction Site 2
+    - Time 81: MCS 1 at Construction Site 2
+    - Time 82: MCS 1 at Construction Site 2
+    - Time 83: MCS 1 at Construction Site 2
+    - Time 84: MCS 1 at Construction Site 2
+
+- See mcs_optimization_results.png for power and energy profiles
